@@ -19,3 +19,9 @@ public class Que7_2 {
         Skip_Todays_Day.display();
     }
 }
+
+/**
+OUTPUT::
+
+
+ */
