@@ -19,7 +19,7 @@ class Truck extends Vehicle{
 }
 public class Que1 {
     public static void main(String[] args) {
-        Vehicle vehicle = new Car();
+        Vehicle vehicle = new Car();//Can you use Polymorphic varibale here
         Vehicle vehicle1 = new Truck();
         vehicle.engine();
         vehicle1.engine();
